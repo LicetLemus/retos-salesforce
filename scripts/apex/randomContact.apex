@@ -1,0 +1,1 @@
+RandomContactFactory.generateRandomContacts(2, 'Montes');
