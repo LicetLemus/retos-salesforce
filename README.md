@@ -1,18 +1,49 @@
-# Salesforce DX Project: Next Steps
+# Retos de Salesforce: Entrenamiento en Trailhead 🚀
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+¡Bienvenido/a a mi repositorio de Salesforce! 🌟 Aquí encontrarás los proyectos y retos que desarrollé durante mi entrenamiento en [Trailhead](https://trailhead.salesforce.com/), la plataforma de aprendizaje de Salesforce. Este espacio refleja mi progreso y los conocimientos adquiridos en desarrollo backend y administración en el ecosistema Salesforce.
 
-## How Do You Plan to Deploy Your Changes?
+---
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## 📂 Estructura del Proyecto
 
-## Configure Your Salesforce DX Project
+El repositorio está organizado de la siguiente manera:
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+- **`aura/`**: Componentes desarrollados utilizando el framework Aura.
+- **`classes/`**: Clases Apex que implementan la lógica del lado del servidor.
+- **`lwc/`**: Componentes construidos con Lightning Web Components (LWC).
+- **`objects/`**: Configuración y personalización de objetos estándar y personalizados.
+- **`triggers/`**: Triggers en Apex para automatización de procesos.
 
-## Read All About It
+---
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## 🚀 Objetivos del Entrenamiento
+
+- Aprender a desarrollar aplicaciones y soluciones en el ecosistema Salesforce.
+- Adquirir experiencia práctica en la creación de componentes LWC y Aura.
+- Diseñar lógica de negocio robusta mediante Apex y triggers.
+- Configurar y personalizar objetos para responder a necesidades empresariales específicas.
+- Implementar mejores prácticas en el desarrollo en Salesforce.
+
+---
+
+## 🛠️ Herramientas y Tecnologías
+
+- **Salesforce DX** (SFDX) para la administración y desarrollo de proyectos.
+- **Apex** para lógica de negocio.
+- **Lightning Web Components (LWC)** para desarrollo frontend.
+- **Trailhead** para certificaciones y módulos de aprendizaje.
+- **GitHub** para control de versiones.
+
+---
+
+## 🌟 Lo que más disfruté
+
+Durante este proceso, he aprendido a resolver problemas reales aplicando soluciones personalizadas en Salesforce. Los retos me han ayudado a fortalecer mi capacidad analítica y a conocer las herramientas que este ecosistema ofrece.
+
+---
+
+## 💌 Agradecimiento
+
+Quiero agradecer a la comunidad de Salesforce y a la plataforma Trailhead por ofrecer un entorno de aprendizaje tan completo y enriquecedor.
+
+Si quieres más detalles sobre mi experiencia o deseas colaborar conmigo, ¡no dudes en contactarme! 😊
